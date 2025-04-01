@@ -1,2 +1,1 @@
-# hello-world
-Proyecto para prácticas
+Hola Mundo, hola Sogeti
